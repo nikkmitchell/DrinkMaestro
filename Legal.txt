@@ -1,0 +1,31 @@
+---
+
+**LEGAL INFORMATION FOR DRINKMAESTRO.SPACE**
+
+---
+
+**1. TERMS OF USE**
+
+This plugin ("Plugin") uses an Application Programming Interface (API) provided by TheCocktailDB to access cocktail and drink data.
+
+**2. PRIVACY**
+
+Our Plugin does not collect any personal data from its users.
+
+**3. USER RESPONSIBILITIES**
+
+By using this Plugin, you agree to use it in a manner that complies with all applicable local, state, national, and international laws and regulations. This Plugin may suggest alcoholic beverages as part of its functionality to provide information on making many kinds of drinks. Any creation or consumption of alcoholic beverages should be done in accordance with the legal drinking laws in your place of use. This Plugin does not encourage or endorse alcohol abuse. Responsible drinking is strongly advised. If you or someone you know is struggling with alcohol addiction, please visit https://www.alcoholrehabguide.org/resources/.
+
+**4. INTELLECTUAL PROPERTY**
+
+All cocktail and drink data accessed through this Plugin via TheCocktailDB's API are property of TheCocktailDB, and are credited accordingly. The user may not claim intellectual property rights over these data. Please refer to TheCocktailDB's Usage Guidelines for further information.
+
+**5. LIABILITY AND WARRANTY**
+
+This Plugin is provided on an "as is" basis. We make no guarantees about the continuous availability of the Plugin or the cocktail and drink data provided through TheCocktailDB's API. We are not responsible for any data charges, loss, or damage resulting from the use of this Plugin.
+
+**6. CHANGES TO THIS POLICY**
+
+We may revise this legal document from time to time. The most current version will always be posted on our Plugin description page.
+
+---
